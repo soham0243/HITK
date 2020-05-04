@@ -10,9 +10,12 @@ Let's say an Example roll no is 12617003120
 Then
 
 126 - College Id
+
 17 - Year of Admission
+
 3 - Your Department
-120 - Your roll no (according to alphabetical order
+
+120 - Your roll no (according to alphabetical order)
 
 NOTE: Following index can be applicable to the corresponding departments
 
