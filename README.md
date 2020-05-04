@@ -1,9 +1,14 @@
 # HITK
 Simple GUI Based Result Viewer for HITK
+
 First of all you need to enter your Autonomy Roll Number
+
 Format for Autonomy Roll:
+
 Let's say an Example roll no is 12617003120
+
 Then
+
 126 - College Id
 17 - Year of Admission
 3 - Your Department
