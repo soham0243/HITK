@@ -1,4 +1,4 @@
-# HITK
+# HITK Result Viewer
 Simple GUI Based Result Viewer for HITK
 
 First of all you need to enter your Autonomy Roll Number
